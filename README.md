@@ -9,3 +9,5 @@ Minimal Next.js starter for Efirum.bio.
 - `npm start` — start production server
 
 Deploys automatically on Vercel.
+
+Deployed with Vercel.
