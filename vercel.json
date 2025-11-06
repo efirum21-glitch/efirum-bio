@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "buildCommand": "bash build.sh",
-  "framework": "nextjs",
-  "outputDirectory": ".next"
+  "builds": [
+    { "src": "package.json", "use": "@vercel/next" }
+  ]
 }
